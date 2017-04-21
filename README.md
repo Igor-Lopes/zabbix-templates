@@ -1,8 +1,6 @@
-# Templates for Zabbix
+# Templates for Zabbix 3.x
 
-## Templates for `Zabbix 3.x`
-
-### Devices
+## Devices
 
 * F5 Big IP
 * HP Controller MSM 760
