@@ -1,10 +1,8 @@
-#Templates for Zabbix
+# Templates for Zabbix
 
-Templates for `Zabbix 3.x`
+## Templates for `Zabbix 3.x`
 
-##Warning: This repository is still under development. There might be items that do not work properly or are incomplete. You can use its contents at your own risk.
-
-###Devices
+### Devices
 
 * F5 Big IP
 * HP Controller MSM 760
